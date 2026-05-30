@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-torch==2.2.0 --index-url https://download.pytorch.org/whl/cpu
-scikit-learn
+torch --index-url https://download.pytorch.org/whl/cpuscikit-learn
 joblib
 numpy
 pandas
